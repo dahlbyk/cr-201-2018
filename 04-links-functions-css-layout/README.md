@@ -3,6 +3,8 @@
 <a id="top"></a>
 ## Lecture 4
 
+This was amazing. Seriously, the best ever.
+
 ## Today's Schedule
 - Announcements
   - Headshots this afternoon
